@@ -12,12 +12,13 @@ Week 2: The Central Dogma (Replication, Transcription, Translation), Mutation
 - Discussion: Nonsynonymous vs synonymous mutations
 - Python exercise: Mutations
 
-#### Computer setup
+### Computer setup
 
 ##### Initial setup
-- Make sure you are logged into your GitHub account. FORK this git repo by clicking the "Fork" button in the top right corner. This will create a copy of the repository on your own account that you can add, commit, and push your own changes to.
-- CLONE your version of the repository onto your computer. Do this by navigating to the repository through YOUR Github profile. When you click on your copy of the repository, there should be a green button on the right that says "Clone or Download". Copy the URL it gives you (It should be something like: `https://github.com/YOUR-USERNAME/herp-interns.git`). Open up a terminal and use `pwd` to make sure you are in your home directory. Then, execute the command `git clone URL`. You should see this folder in your home directory if you open your Finder.
-- To make sure you can receive the additions and changes I make to the repo (i.e. adding stuff into the folders for the next few weeks), you must set an UPSTREAM REMOTE. Do this by going into your Terminal, navigating to the `herp-interns` directory (remember `cd`!) and typing the command `git remote add upstream https://github.com/carosee/herp-interns.git`.
+- Make sure you are logged into your GitHub account. **Fork** this git repo by clicking the "Fork" button in the top right corner. This will create a copy of the repository on your own account that you can push your own changes to.
+- **Clone** your version of the repository onto your computer. Do this by navigating to the repository through YOUR Github profile. When you click on your copy of the repository, there should be a green button on the right that says "Clone or Download". Copy the URL it gives you (It should be something like: `https://github.com/YOUR-USERNAME/herp-interns.git`)
+- Open up a terminal and use `pwd` to make sure you are in your home directory. Then, execute the command `git clone URL`. You should see this folder in your home directory if you open your Finder.
+- To make sure you can receive the additions and changes I make to the repo (i.e. adding stuff into the folders for the next few weeks), you must set an **upstream remote**. Do this by going into your Terminal, navigating to the `herp-interns` directory (remember `cd`!) and typing the command `git remote add upstream https://github.com/carosee/herp-interns.git`.
 - Verify that you have done this correctly by typing the command `git remote -v`. You should see something like this:
 
 ```shell
@@ -41,20 +42,20 @@ $ git merge upstream/master
 ```
 - See also: https://help.github.com/articles/syncing-a-fork/
 
-#### Python review
+### Python review
 - See pythonreview.md.  
 
-#### DNA coding exercise
+##### DNA coding exercise
 - In pairs, fill in the functions `complement()` and `count_bases()` in `substitutions.py`.
 - Create a test case for each other's functions (how to make a test case?) and make sure your functions are correct.
 - Given a sample sequence, count the number of each base in the sequence and compare it to the number of each base in the complement. What do you notice, and why is this the case?
 
-#### Transcription and Translation coding exercise
+##### Transcription and Translation coding exercise
 - In pairs, fill in the functions `transcribe_dna()`, and `translate_rna()` in `substitutions.py`.
 - Create a test case for each other's functions (how to make a test case?) and make sure your functions are correct.
 - Test the functions using the beta globin gene sequences. Find the mutation. Does the resulting protein change?  
 
-#### Mutation coding exercise
+##### Mutation coding exercise
   + Fill in the functions `random_substitution()`, `is_synonymous()`, and `count_synonymous` in `substitutions.py`.  
   + Why don't all DNA mutations change the protein sequence?  
   
