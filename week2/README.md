@@ -20,7 +20,7 @@ Week 2: The Central Dogma (Replication, Transcription, Translation), Mutation
 - To make sure you can receive the additions and changes I make to the repo (i.e. adding stuff into the folders for the next few weeks), you must set an UPSTREAM REMOTE. Do this by going into your Terminal, navigating to the `herp-interns` directory (remember `cd`!) and typing the command `git remote add upstream https://github.com/carosee/herp-interns.git`.
 - Verify that you have done this correctly by typing the command `git remote -v`. You should see something like this:
 
-```bash
+```shell
 $ git remote -v
 origin  https://github.com/your-username/herp-interns.git (fetch)
 origin  https://github.com/your-username/herp-interns.git (push)
@@ -34,7 +34,7 @@ upstream  https://github.com/carosee/herp-interns.git (push)
 - To commit changes, use the command `git commit -m "YOUR MESSAGE HERE"`.
 - To push your changes to github, use the command `git push origin master`.
 - Every week I will push changes to the remote repository with code files and other things we will need for the week. At the beginning of each class, you will need to download these changes into your own forked repo by executing the following commands:
-```bash
+```shell
 $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
