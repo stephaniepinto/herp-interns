@@ -11,24 +11,41 @@ Evolution big picture stuff
 DNA/DNA Replication  
 Transcription/Translation  
 Mutations  
+Heredity and Intro to Probability   
+Evolution smaller picture stuff  
+---
+Python review
+Intro to Numpy
 
-### Week 3
+### Week 3 (Election week!)
 Genes, Genomes  
-Heredity and Intro to Probability  
+Genome sequencing
+---
+Numpy continued  
+Look at & understand snake data
 
 ### Week 4
-Evolution smaller picture stuff  
-Genome Sequencing  
+Sequence alignment algorithms
+---
+Hopefully start experimenting with the data, write some basic scripts
+Numpy continued
+Intro to matplotlib
 
-### Week 5 (Thanksgiving!)  
+### Week 5 (Thanksgiving week!)  
 Discussion on personal genome sequencing  
 
 ### Week 6  
-Sequence alignment algorithms  
+Sequence alignment algorithms 
+---
+Continue working with the data
+Intro to R 
 
 ### Week 7  
 Trees, basic taxonomy  
 Phylogenetic tree algorithms  
+---
+Continue working with the data
+Intro to R
 
 ### Week 8  
 Read & discuss paper  
