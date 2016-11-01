@@ -13,26 +13,20 @@ Transcription/Translation
 Mutations  
 Heredity and Intro to Probability   
 Evolution smaller picture stuff  
-
----
-
+  
 Python review  
 Intro to Numpy  
 
 ### Week 3 (Election week!)  
 Genes, Genomes    
 Genome sequencing  
-
----
-
+  
 Numpy continued  
 Look at & understand snake data  
 
 ### Week 4
 Sequence alignment algorithms  
-
----
-
+  
 Hopefully start experimenting with the data, write some basic scripts  
 Numpy continued  
 Intro to matplotlib  
@@ -42,18 +36,14 @@ Discussion on personal genome sequencing
 
 ### Week 6  
 Sequence alignment algorithms   
-
----
-
+  
 Continue working with the data  
 Intro to R   
 
 ### Week 7  
 Trees, basic taxonomy  
 Phylogenetic tree algorithms   
-
----
-
+  
 Continue working with the data  
 Intro to R  
 
