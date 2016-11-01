@@ -25,7 +25,7 @@ Numpy continued
 Look at & understand snake data  
 
 ### Week 4
-Sequence alignment algorithms  
+Genome sequencing / Sequence alignment algorithms  
   
 Hopefully start experimenting with the data, write some basic scripts  
 Numpy continued  
@@ -35,7 +35,7 @@ Intro to matplotlib
 Discussion on personal genome sequencing   
 
 ### Week 6  
-Sequence alignment algorithms   
+Sequence alignment algorithms / Trees   
   
 Continue working with the data  
 Intro to R   
@@ -51,4 +51,4 @@ Intro to R
 Read & discuss paper  
 
 ### Week 9  
-Last week before holidays! Something fun, hopefully.  
+Last week before holidays! Continue on projects + something fun, hopefully.  
